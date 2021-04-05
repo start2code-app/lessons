@@ -1,7 +1,7 @@
 
 > Open this page at [https://start2code-app.github.io/lessons/](https://start2code-app.github.io/lessons/)
 
-## Lesson 1
+## Lessons
 
 * [Lesson1](/lessons/lesson1) [start](https://makecode.microbit.org/#tutorial:github:start2code-app/lessons/lesson1)
 * [Lesson2](/lessons/lesson2) [start](https://makecode.microbit.org/#tutorial:github:start2code-app/lessons/lesson2)
