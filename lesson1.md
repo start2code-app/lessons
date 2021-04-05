@@ -1,5 +1,6 @@
 # lessons
 
+
 ## lesson 1
 When the micro:bit starts ``||basic:Clear the Screen||`` and using the ``||led:plot||`` command switch on the LED at the center of
 the microbit.
@@ -62,7 +63,7 @@ input.onGesture(Gesture.Shake, function () {
 
 ```
 
-## Step 6
+## End
 
 Congratulations ! You have completed the task
 

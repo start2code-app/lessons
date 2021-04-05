@@ -4,6 +4,9 @@
 ## Lesson 1
 
 * [Lesson1](/lessons/lesson1) [start](https://makecode.microbit.org/#tutorial:github:start2code-app/lessons/lesson1)
+* [Lesson2](/lessons/lesson2) [start](https://makecode.microbit.org/#tutorial:github:start2code-app/lessons/lesson2)
+
+
 
 #### Metadata (used for search, rendering)
 
