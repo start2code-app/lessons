@@ -5,6 +5,7 @@
 Create a variable called ``||Variables:frame||``
 
 ```blocks
+let frame = 0
 ```
 
 ## Step2 
