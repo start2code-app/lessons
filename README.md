@@ -3,6 +3,7 @@
 
 ## Lessons
 
+* [presentation](https://1drv.ms/b/s!Ao7XNiia_X6fgs1FXxZaRCNDJ0esxA?e=Rj2d8T)
 * [Lesson1](/lessons/lesson1) [start](https://makecode.microbit.org/#tutorial:github:start2code-app/lessons/lesson1)
 * [Lesson2](/lessons/lesson2) [start](https://makecode.microbit.org/#tutorial:github:start2code-app/lessons/lesson2)
 * [Lesson3](/lessons/lesson3) [start](https://makecode.microbit.org/#tutorial:github:start2code-app/lessons/lesson3)
