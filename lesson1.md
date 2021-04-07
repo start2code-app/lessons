@@ -5,7 +5,7 @@
 When the micro:bit starts ``||basic:Clear the Screen||`` and using the ``||led:plot||`` command switch on the LED at the center of
 the microbit.
 
-![A animation that shows how to create a variable](/static/hand.jpg)
+![A animation that shows how to create a variable](/lessons/static/hand.jpg)
 
 ```blocks
 basic.clearScreen()
