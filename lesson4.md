@@ -169,3 +169,6 @@ If you have a @boardname@, click on ``|Download|`` and follow the instructions t
 onto your @boardname@. Your game is ready! Gather your friends and play Rock Paper Scissors!
 
 ![A @boardname@ in a hand](/static/mb/projects/rock-paper-scissors/hand.jpg)
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
